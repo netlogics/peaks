@@ -1,5 +1,4 @@
 require 'minitest/autorun'
-require 'minitest/byebug' if ENV['DEBUG']
 require_relative 'peaks'
 
 describe Peaks do
