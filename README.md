@@ -6,7 +6,7 @@ than the element. Write tests for the code including tests for the edge cases.
 You can use any frameworks or Gems you like and you can use the internet as well as
 a resource.
 
-## Install
+## Install & Run
 1. `git clone https://github.com/netlogics/peaks.git`
 2. `cd peaks`
 3. `irb`
