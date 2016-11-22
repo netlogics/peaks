@@ -11,7 +11,8 @@ a resource.
 2. `cd peaks`
 3. `irb`
 4. `require_relative 'peaks'`
-5. `peaks = Peaks.new [1,4,2,3,6,0] => [1, 4]`
+5. `peaks = Peaks.new [1,4,2,3,6,0]`
+6. `peaks.peak_indicies` => [1, 4]
 
 ## Test
 `ruby test_peaks.rb`
